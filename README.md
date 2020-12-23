@@ -19,3 +19,4 @@ Below date ranges should be merged:
 01 Jan 2014 – 15 Jan 2014
 15 Jan 2014 – 30 Jan 2014
 (End date of first date range matches with start date of second date range).
+https://github.com/rkumar2185/MergerDate.git
